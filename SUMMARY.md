@@ -6,6 +6,13 @@
 
 * [Overview](using-the-dapp/overview.md)
 
+## PARTNERSHIPS
+
+* [The Storm Network](partnerships/the-storm-network.md)
+* [Dandelion Labs](partnerships/dandelion-labs.md)
+* [Theos.Fi](partnerships/theos.fi.md)
+* [Sthorm.io](partnerships/sthorm.io.md)
+
 ## REFERENCES
 
 * [Glossary](references/glossary.md)
