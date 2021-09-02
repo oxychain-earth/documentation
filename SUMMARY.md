@@ -5,4 +5,5 @@
 ## GET INVOLVED
 
 * [Contribute](get-involved/contribute.md)
+* [Community Discord](https://discord.com/invite/9ZAqmhyRzK)
 
