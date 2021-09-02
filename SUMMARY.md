@@ -1,9 +1,14 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Introduction](README.md)
+
+## USING THE DAPP
+
+* [Overview](using-the-dapp/overview.md)
 
 ## REFERENCES
 
+* [Glossary](references/glossary.md)
 * [Links](references/links.md)
 
 ## GET INVOLVED
