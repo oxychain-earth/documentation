@@ -6,10 +6,9 @@ Their key market advantage is the ability to leverage a wealth of experience in 
 
 ### Vision and Mission
 
-Our purpose-driven multidisciplinary team believes in technology as a force of change. Technology has to be carefully and consciously designed, architectured, and applied to ensure positive and fair outcomes for internal and external stakeholders, leveraging it to support sustainable and regenerative practices, social impact, and inclusion.
+Dande's purpose-driven multidisciplinary team believes in technology as a force of change. Technology has to be carefully and consciously designed, architectured, and applied to ensure positive and fair outcomes for internal and external stakeholders, leveraging it to support sustainable and regenerative practices, social impact, and inclusion.
 
 ### Links
 
 * [https://dandelionlabs.io](https://dandelionlabs.io/)
-* [https://dandelionlabs.io/corporate/dandelion-labs/](https://dandelionlabs.io/corporate/dandelion-labs/)
 
