@@ -2,6 +2,10 @@
 
 * [Introduction](README.md)
 
+## BASICS
+
+* [Governance](basics/governance.md)
+
 ## USING THE DAPP
 
 * [Overview](using-the-dapp/overview.md)
